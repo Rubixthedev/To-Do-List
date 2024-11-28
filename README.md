@@ -19,7 +19,7 @@ A simple and responsive To-Do List app built using **HTML**, **CSS**, and **Java
 ## 📸 Screenshots
 
 ### Home Page
-![To-Do List Screenshot](screenshots/homepage.jpg)
+![To-Do List Screenshot](homepage.jpg)
 
 ## 🚧 Future Updates
 
